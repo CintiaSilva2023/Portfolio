@@ -101,9 +101,10 @@ nav a:hover {
 }
 
 #foto {
-    border-radius: 80px;
+    border-radius: 50%;
     margin-left: 160px;
     margin-top: 30px;
+    
 }
 
 #sobremim {
